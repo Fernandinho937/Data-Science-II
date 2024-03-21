@@ -1,7 +1,7 @@
 # Detecção de Fraudes em Cartão de Crédito
 ## (Credit Card Fraud Detection using Machine Learning in Python)
 
-Neste projeto, construímos um sistema de Detecção de Fraudes em Cartão de Crédito utilizando Aprendizado de Máquina com Python. Para este projeto, utilizamos o modelo de Regressão Logística.
+Neste projeto, construi um sistema de Detecção de Fraudes em Cartão de Crédito utilizando Aprendizado de Máquina com Python. Para este projeto, foi utilizado um o modelo de Regressão Logística.
 
 ## Visão Geral do Projeto
 
@@ -9,7 +9,7 @@ O objetivo deste projeto é desenvolver um modelo de machine learning capaz de i
 
 ## Bibliotecas Utilizadas
 
-Para a implementação deste projeto, utilizamos as seguintes bibliotecas em Python:
+Para a implementação deste projeto, foram utilizadas as seguintes bibliotecas em Python:
 
 - NumPy (import numpy as np): Biblioteca fundamental para computação numérica em Python.
 - pandas (import pandas as pd): Biblioteca de análise de dados que fornece estruturas de dados flexíveis e ferramentas de manipulação de dados.

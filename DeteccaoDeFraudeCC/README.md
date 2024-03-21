@@ -1,4 +1,5 @@
 # Detecção de Fraudes em Cartão de Crédito
+## (Credit Card Fraud Detection using Machine Learning in Python)
 
 Neste projeto, construímos um sistema de Detecção de Fraudes em Cartão de Crédito utilizando Aprendizado de Máquina com Python. Para este projeto, utilizamos o modelo de Regressão Logística.
 

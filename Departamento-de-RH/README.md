@@ -1,4 +1,4 @@
-#Departamento de Recursos Humanos
+# Departamento de Recursos Humanos
 
 O objetivo desse estudo de caso é prever quais funcionários têm mais tendência a sair da empresa pois um dos maiores problemas enfrentados pelas empresas é fazer a contratação e manter as pessoas talentosas visto que o processo de contratação leva muito tempo e dinheiro. Com isso têm-se a possibilidade de oferta de benefícios ou algum tipo de bônus ao funcionário a ser mantido, pois caso esse funcionário deseje sair será gasto muito dinheiro no processo de contratação e treinamento de aluguém para ocupar a sua posição.
 

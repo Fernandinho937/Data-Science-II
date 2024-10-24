@@ -19,6 +19,8 @@
 
 ## Projetos (Projects):
 
+[TODOS OS PROJETOS](https://github.com/Fernandinho937/Data-Science/blob/main/README.md)
+
 * **Dados geoespaciais (Geospatial Data)** [Ver projeto](https://github.com/Fernandinho937/Data-Science/tree/main/dados-geoespaciais)
 * **Análise de vendas (SalesAnalysis)** [Ver projeto](https://github.com/Fernandinho937/Data-Science/tree/main/salesanalysis-dash)
 * **Análise exploratória (Exploratory Analysis)** [Ver projeto](https://github.com/Fernandinho937/Data-Science/tree/main/Exploratory-Analysis)

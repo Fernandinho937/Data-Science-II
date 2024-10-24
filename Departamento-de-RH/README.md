@@ -18,4 +18,4 @@ Os custos árduos de contratação incluem os custos inevitáveis ​​de busca
 fonte:https://toggl.com/blog/cost-of-hiring-an-employee
 
 
-Enfim, contratar um novo funcionário geram muitos gastos e cuidar dos talentos existentes dentro da empresa, oferecendo benefícios, bônus ou vantagens gera um custo menor.
+Enfim, contratar um novo funcionário geram muitos gastos e cuidar dos talentos existentes dentro da empresa, oferecendo benefícios, bônus ou vantagens gera um custo menor, tendo o funcionário satisfeito e mantendo a equipe de trabalho.

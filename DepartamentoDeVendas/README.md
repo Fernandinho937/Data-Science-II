@@ -1,26 +1,28 @@
-# Dataset Description
-You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.
+# **Descrição do Conjunto de Dados (Dataset Description)**  
+Você possui dados históricos de vendas para 1.115 lojas Rossmann. A tarefa é prever a coluna "Sales" para o conjunto de teste. Note que algumas lojas no conjunto de dados foram temporariamente fechadas para reformas.
 
-Files
-train.csv - historical data including Sales
-test.csv - historical data excluding Sales
-sample_submission.csv - a sample submission file in the correct format
-store.csv - supplemental information about the stores
-Data fields
-Most of the fields are self-explanatory. The following are descriptions for those that aren't.
+**Arquivos**  
+- **train.csv** - dados históricos, incluindo Vendas  
+- **test.csv** - dados históricos, excluindo Vendas  
+- **sample_submission.csv** - um arquivo de submissão de exemplo no formato correto  
+- **store.csv** - informações suplementares sobre as lojas  
 
-Id - an Id that represents a (Store, Date) duple within the test set
-Store - a unique Id for each store
-Sales - the turnover for any given day (this is what you are predicting)
-Customers - the number of customers on a given day
-Open - an indicator for whether the store was open: 0 = closed, 1 = open
-StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. a = public holiday, b = Easter holiday, c = Christmas, 0 = None
-SchoolHoliday - indicates if the (Store, Date) was affected by the closure of public schools
-StoreType - differentiates between 4 different store models: a, b, c, d
-Assortment - describes an assortment level: a = basic, b = extra, c = extended
-CompetitionDistance - distance in meters to the nearest competitor store
-CompetitionOpenSince[Month/Year] - gives the approximate year and month of the time the nearest competitor was opened
-Promo - indicates whether a store is running a promo on that day
-Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
-Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
-PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
+**Campos de Dados**  
+A maioria dos campos é autoexplicativa. Abaixo estão descrições para aqueles que não são:
+
+- **Id** - um Id que representa um par (Loja, Data) no conjunto de teste  
+- **Store** - um Id exclusivo para cada loja  
+- **Sales** - o faturamento de um determinado dia (este é o valor que você deve prever)  
+- **Customers** - o número de clientes em um determinado dia  
+- **Open** - indicador se a loja estava aberta: 0 = fechada, 1 = aberta  
+- **StateHoliday** - indica um feriado estadual. Normalmente todas as lojas, com algumas exceções, estão fechadas nos feriados estaduais. a = feriado público, b = feriado de Páscoa, c = Natal, 0 = Nenhum  
+- **SchoolHoliday** - indica se o (Loja, Data) foi afetado pelo fechamento de escolas públicas  
+- **StoreType** - diferencia entre 4 modelos de loja diferentes: a, b, c, d  
+- **Assortment** - descreve um nível de sortimento: a = básico, b = extra, c = estendido  
+- **CompetitionDistance** - distância em metros até a loja concorrente mais próxima  
+- **CompetitionOpenSince[Month/Year]** - indica o ano e mês aproximados em que o concorrente mais próximo foi aberto  
+- **Promo** - indica se uma loja está realizando uma promoção naquele dia  
+- **Promo2** - Promo2 é uma promoção contínua e consecutiva para algumas lojas: 0 = loja não participa, 1 = loja participa  
+- **Promo2Since[Year/Week]** - descreve o ano e a semana do calendário em que a loja começou a participar da Promo2  
+- **PromoInterval** - descreve os intervalos consecutivos em que a Promo2 é iniciada, nomeando os meses em que a promoção é reiniciada. Exemplo: "Feb,May,Aug,Nov" significa que cada rodada começa em fevereiro, maio, agosto e novembro para essa loja.
+

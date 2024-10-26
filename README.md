@@ -13,4 +13,4 @@
 * [LinkedIn](https://www.linkedin.com/in/fernandinho-rocha/)
 
 ## Projetos (Projects):
-[TODOS OS PROJETOS](https://github.com/Fernandinho937/Data-Science/blob/main/README.md)
+[ÍNDICE - VER PROJETOS](https://github.com/Fernandinho937/Data-Science/blob/main/README.md)
